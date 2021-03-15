@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/poseidon/Documents/github/ORB_SLAM2-maskrcnn/include/",
+                "/home/poseidon/Downloads/libtorch/include",
+                "/home/poseidon/Downloads/libtorch/include/torch/csrc/api/include/"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

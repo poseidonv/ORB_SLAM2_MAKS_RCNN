@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "任务-mono_kitti",
+      "appliesTo": "Examples/Monocular/mono_kitti.cc",
+      "type": "launch"
+    }
+  ]
+}
